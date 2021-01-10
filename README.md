@@ -21,6 +21,6 @@ bash ibmcloud.sh
   
   ssrot脚本出自：ShadowsocksR-native
   
-  重启脚本参考：peng4740
+  重启脚本参考：peng4740 
   
   
